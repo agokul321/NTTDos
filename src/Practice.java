@@ -26,6 +26,10 @@ public class Practice {
 	
 	click.moveToElement(option).click().perform();
 	
+	System.out.println("gokul");
+	System.out.println("ojsdnajn");
+	System.out.println("ojn");
+	
 	
 	
 	
